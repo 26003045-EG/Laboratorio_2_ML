@@ -6,3 +6,4 @@ data/entrada
 shared
 *.ipynb
 .env
+
